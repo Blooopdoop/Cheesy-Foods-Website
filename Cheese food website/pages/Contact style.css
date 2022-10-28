@@ -1,0 +1,86 @@
+body {
+	background-image: url('../Home images/Restaurant-background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: Cornsilk;
+	color:#000;
+	margin: 0;
+	font-family: Garamond, serif;
+}
+nav{
+	overflow: hidden;
+	background-color: #000;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.pages{
+	text-decoration:none;
+	float:right;
+	margin-right:35px;
+	color:darkorange;
+	background-color:black;
+	font-size: 35px;
+	text-shadow: 1px 1px 1px Cornsilk;
+}
+.cheeselogo	{
+	height:90px;
+	width:105px;
+	margin-left:10px;
+}
+.current	{
+	color: red;
+}
+.boxes	{
+	background-color:cornsilk;
+	font-size:20px;
+	color:firebrick;
+	text-shadow: 2px 2px 8px orangered;
+	border:3px solid black;
+}
+.me	{
+	width:400px;
+	height:300px;
+	float: left;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+.info	{
+	text-shadow: 2px 2px 8px gold;
+	color: darkgoldenrod;
+}
+.Gw	{
+	width:400px;
+	height:300px;
+	float: right;
+	margin-right: 225px;
+	margin-top: 20px;
+}
+.SnR	{
+	width:400px;
+	height:300px;
+	float: left;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+.Cld	{
+	width:400px;
+	height:300px;
+	float: right;
+	margin-right: 225px;
+	margin-top: 20px;
+}
+.Tb	{
+	width:400px;
+	height:300px;
+	float: left;
+	margin-left: 225px;
+	margin-top: 20px;
+}
+.Lc	{
+	width:400px;
+	height:300px;
+	float: right;
+	margin-right: 225px;
+	margin-top: 20px;
+}
